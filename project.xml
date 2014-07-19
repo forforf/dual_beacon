@@ -2,6 +2,6 @@
 <project>
 	<gatt in="gatt.xml" />
 	<hardware in="hardware.xml" />
-	<script in="script.bgs" />
-	<image out="image.hex" />
+	<script in="dual_proto.bgs" />
+	<image out="out.hex" />
 </project>

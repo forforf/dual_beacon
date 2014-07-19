@@ -27,3 +27,6 @@ build
 /Icon.png
 
 Thumbs.db
+
+.idea/
+variable_memory_usage.txt
